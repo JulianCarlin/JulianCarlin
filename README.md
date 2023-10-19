@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi!
+
+I'm Julian B Carlin, an OzGrav postdoctoral research fellow currently at the University of Melbourne.
+
+I work in gravitational waves, pulsar glitches, solar flares, and all things to do with connecting models, signals, and data.
+
+This is still a work-in-progress, so bear with me!
 
 <!--
 **JulianCarlin/JulianCarlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
